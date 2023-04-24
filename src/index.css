@@ -1,0 +1,20 @@
+.texto{
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;
+    color: antiquewhite;
+    margin-top: -100px;
+}
+
+.centralizar{
+    background-color: #141313;
+    color: #FFFFFF;
+    width: 80%; /*Tamanho*/
+    max-width: 1000px;
+    margin: 0 auto; /*Margem dos dois lados da tela*/
+    text-align: center; /*Conteúdo centralizado*/
+    padding: 280px; /*Tamanho de cima pra baixo*/
+    border-radius: 10px; /* Adicionando bordas arredondadas */
+    box-sizing: border-box; /* Agrupando as propriedades de tamanho */
+    padding-top: 200px;
+    padding-bottom: 60px; /*Aumenta tamanho pra baixo*/
+}
